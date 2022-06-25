@@ -1,2 +1,3 @@
 # bootcamp-project
-Created with CodeSandbox
+Project in 'project' folder
+login and register page linked with homepage with authentication
